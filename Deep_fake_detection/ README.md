@@ -1,4 +1,4 @@
-### 1️⃣ Deep Fake Detection 🎭
+### Deep Fake Detection 🎭
 A Streamlit-based application to detect whether a video is real or fake using a trained deep learning model.
 
 **Features**
